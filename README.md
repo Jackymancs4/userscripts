@@ -19,6 +19,13 @@ All my userscripts have the `@namespace` set to `jackymancs4`
 	* Install a script directly from GitHub by clicking on the "install" link in the table below.
 	* Install a script from [GreasyFork](https://greasyfork.org/en/users/250936-jackymancs4) (GF) from the userscript site page or, install the scripts from [OpenUserJS](https://openuserjs.org/users/jackymancs4/scripts) (OU), if available.<br><br>
 
+| Userscript Wiki                        	| Direct<br>Install | Sites                 | Added      | Updated    |
+|-------------------------------------------|:-------------------:|:-------------------------:|:----------:|:----------:|
+| [Enhanced xkcd][ex-wiki]         		| [install][ex-raw] 	| --- | 2022.09.03 | 2022.09.03 |
+
+[ex-wiki]: https://github.com/Jackymancs4/userscripts/wiki/Enhanced+xkcd
+[ex-raw]: https://raw.githubusercontent.com/Jackymancs4/userscripts/master/scripts/enhanced-xkcd.user.js
+
 ## Updating
 
 Userscripts are set up to automatically update. You can check for updates from within the Greasemonkey or Tampermonkey menu, or click on the install link again to get the update.
